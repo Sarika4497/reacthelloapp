@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacthelloapp/static/css/main.a617e044.chunk.css",
+    "main.js": "/reacthelloapp/static/js/main.bf6d055c.chunk.js",
+    "main.js.map": "/reacthelloapp/static/js/main.bf6d055c.chunk.js.map",
+    "runtime-main.js": "/reacthelloapp/static/js/runtime-main.333f67ae.js",
+    "runtime-main.js.map": "/reacthelloapp/static/js/runtime-main.333f67ae.js.map",
+    "static/js/2.899c36d6.chunk.js": "/reacthelloapp/static/js/2.899c36d6.chunk.js",
+    "static/js/2.899c36d6.chunk.js.map": "/reacthelloapp/static/js/2.899c36d6.chunk.js.map",
+    "static/js/3.7841e6ce.chunk.js": "/reacthelloapp/static/js/3.7841e6ce.chunk.js",
+    "static/js/3.7841e6ce.chunk.js.map": "/reacthelloapp/static/js/3.7841e6ce.chunk.js.map",
+    "index.html": "/reacthelloapp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/reacthelloapp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.899c36d6.chunk.js.LICENSE.txt": "/reacthelloapp/static/js/2.899c36d6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reacthelloapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.333f67ae.js",
+    "static/js/2.899c36d6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.bf6d055c.chunk.js"
+  ]
+}
